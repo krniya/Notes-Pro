@@ -1,0 +1,2 @@
+-keep class in.niya.note.adapter.** { *; }
+-keep class in.niya.note.model.** { *; }
